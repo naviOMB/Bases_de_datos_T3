@@ -1,11 +1,5 @@
 # Tarea 3 - Bases de Datos NoSQL (MongoDB)
 
-**Integrantes:**
-- Javier Canepa (201910028-9)
-- Iván Weber (202104092-7)
-
----
-
 ## Descripción de la Entrega
 
 Esta tarea corresponde a la **implementación de una base de datos distribuida utilizando MongoDB**, enfocada en lograr **alta disponibilidad** mediante el despliegue de múltiples nodos en contenedores.
